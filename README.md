@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ishan! <br/><a>Data Analyst</a>, <a >Business Intelligence Analyst</a>, <a >Business Analyst</a></h1>
+<h1>Hi, I'm Ishan! <br/><a> I specialize in Data Analysis</a>, <a >Business Intelligence Analysis</a>, <a > and Business Analysis</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
 
