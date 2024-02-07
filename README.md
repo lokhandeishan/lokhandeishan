@@ -8,7 +8,7 @@
   - 
 - <b>Strategy optimization using Tableau (Python and Tableau)</b>
   -
-- <b>Predicting Heart Disease with Machine Learning (Python)</b>
+- <b>[**Predicting Heart Disease with Machine Learning (Python)**](https://github.com/lokhandeishan/Predicting-Heart_disease/blob/main/README.md)</b>
   -
 
 <h2> 🤳 Connect with me:</h2>
