@@ -9,7 +9,6 @@
 - <b>Strategy optimization using Tableau (Python and Tableau)</b>
   -
 - <b>Predicting Heart Disease with Machine Learning (Python)</b>
-  -   
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -20,18 +19,3 @@
 
 [instagram]: https://www.instagram.com/ishanlokhande/
 [linkedin]: https://linkedin.com/in/ishanlokhande/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
