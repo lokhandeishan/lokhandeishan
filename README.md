@@ -9,6 +9,7 @@
 - <b>Strategy optimization using Tableau (Python and Tableau)</b>
   -
 - <b>Predicting Heart Disease with Machine Learning (Python)</b>
+  -
 
 <h2> 🤳 Connect with me:</h2>
 
