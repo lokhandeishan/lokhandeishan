@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>[**Forecasting Success using Machine Learning (Python)**](https://github.com/lokhandeishan/Forecasting-success-using-machine-learning/tree/main)
-  
+- <b>[**Forecasting Success using Machine Learning (Python)**](https://github.com/lokhandeishan/Forecasting-success-using-machine-learning/tree/main)</b>
+  -
 - <b>[**Risk Analysis with Predictive Modeling (R, Linear regression)**](https://github.com/lokhandeishan/Carvana-R)</b>
   - 
 - <b>Strategy optimization using Tableau (Python and Tableau)</b>
