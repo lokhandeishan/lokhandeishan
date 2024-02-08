@@ -6,7 +6,7 @@
   -
 - <b>[**Risk Analysis with Predictive Modeling (R, Linear regression)**](https://github.com/lokhandeishan/Carvana-R)</b>
   - 
-- <b>Strategy optimization using Tableau (Python and Tableau)</b>
+- <b>[**Strategy optimization using Tableau (Python and Tableau)**](https://github.com/lokhandeishan/Tableau-Strategy-Optimization)</b>
   -
 - <b>[**Predicting Heart Disease with Machine Learning (Python)**](https://github.com/lokhandeishan/Predicting-Heart_disease/blob/main/README.md)</b>
   -
